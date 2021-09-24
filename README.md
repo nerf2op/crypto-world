@@ -1,3 +1,8 @@
+# Live Demo here
+https://crypto-home.netlify.app/
+ 
+ used `ant desing` for styling  
+ api used `Rapid Api` 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
